@@ -12,6 +12,7 @@ with feature toggling API endpoints
 
 # Project structure
 
+```bash
 myproject/
 ├── configs/
 │ ├── tenant_a_config.json
@@ -26,6 +27,7 @@ myproject/
 ├── manage.py
 ├── requirements.txt
 └── README.md
+```
 
 # 🚀 Setup & Run Instructions
 
@@ -72,8 +74,6 @@ python manage.py runserver
 # 🧪 Running Tests
 
 ```bash
-Copy
-Edit
 python manage.py test
 ```
 
